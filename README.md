@@ -46,3 +46,13 @@ In the private class callback write {shouldoverride keyevent}---> remove {privat
 
 Under application tag add
         android:networkSecurityConfig="@xml/network_security_config"
+
+
+
+
+
+
+
+
+# referenece
+https://youtu.be/6U8-_G5yjwA?si=lNOVaXnD4jb3g6Jx
